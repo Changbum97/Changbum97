@@ -1,6 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Changbum97%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=79EDFF&height=300&width=100%&section=header&text=Changbum%20Github&fontSize=80)
 
-### Hi there 👋
+
+#### 백엔드 개발자를 준비중인 안창범입니다. 👋
+
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+</div>
 
 <!--
 **Changbum97/Changbum97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
